@@ -22,7 +22,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-using-css-grids-flexbox-and-semantic-html5-9ETrrABkR
 - Live Site URL: https://filippo-b.github.io/profile-card-component/
 
 ## My process
